@@ -30,5 +30,13 @@ projek [CamPish](https://github.com/techchipnet/CamPhish) dengan kode
 yang sudah di rombak dan lebih simple sekaligus mudah di gunakan
 
 
+# dukung kami 👋
+
+jika mau kami meneruskan dan membuat kode baru 
+anda bisa mendukung kami lewat
+🪙 bitcoins: bc1qkyqw6xd422r9clwsjm5exy2t5yg7czkdzxv55t
+👝 paypal : paypal.me/RizkyDaffy
+🤑 saweria : https://trakteer.id/DappyNet
+
 
 
